@@ -6,7 +6,7 @@ import argparse
 
 def convert_to_coco(images_dir, labels_dir, output_file):
     """
-    Convert YOLO format annotations to COCO format for the AppleBBCH81 dataset.
+    Convert YOLO format annotations to COCO format for the Pear640 dataset.
     
     Args:
         images_dir (str): Directory containing the image files
@@ -16,12 +16,12 @@ def convert_to_coco(images_dir, labels_dir, output_file):
     # Initialize COCO format
     coco_format = {
         "info": {
-            "description": "AppleBBCH81 Dataset - Apple fruit images captured during maturity stage (BBCH 81-85)",
+            "description": "Pear640 Dataset - Pear fruit images captured in pear orchards",
             "version": "1.0",
-            "year": 2024,
+            "year": 2023,
             "contributor": "LatHort orchard in Dobele, Latvia",
-            "date_created": "2024/04/12",
-            "url": "https://www.kaggle.com/datasets/projectlzp201910094/applebbch81"
+            "date_created": "2023/06/15",
+            "url": "https://www.kaggle.com/datasets/projectlzp201910094/pear640"
         },
         "licenses": [
             {
@@ -35,7 +35,7 @@ def convert_to_coco(images_dir, labels_dir, output_file):
         "categories": [
             {
                 "id": 0,
-                "name": "apple",
+                "name": "pear",
                 "supercategory": "fruit"
             }
         ]
@@ -60,7 +60,7 @@ def convert_to_coco(images_dir, labels_dir, output_file):
             "file_name": img_filename,
             "height": height,
             "width": width,
-            "date_captured": "2024-04-12"
+            "date_captured": "2023-06-15"
         })
         
         # Get corresponding label file
@@ -103,7 +103,7 @@ def convert_to_coco(images_dir, labels_dir, output_file):
     print(f"COCO format JSON saved to {output_file}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Convert YOLO format annotations to COCO format for the AppleBBCH81 dataset')
+    parser = argparse.ArgumentParser(description='Convert YOLO format annotations to COCO format for the Pear640 dataset')
     parser.add_argument('--images', type=str, default="data/images", help='Directory containing the image files')
     parser.add_argument('--labels', type=str, default="data/labels", help='Directory containing the YOLO format label files')
     parser.add_argument('--output', type=str, default="data/data.json", help='Path to save the COCO format JSON file')
