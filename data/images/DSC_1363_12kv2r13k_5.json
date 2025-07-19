@@ -1,0 +1,175 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3920426356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1363_12kv2r13k_5.jpg",
+      "size": 86749,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7492952356,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1118.234783744,
+      "bbox": [
+        11.59872,
+        582.93728,
+        26.53568,
+        42.1408
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952357,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 905.9354763264001,
+      "bbox": [
+        50.793279999999996,
+        434.49216000000007,
+        25.476480000000002,
+        35.55968
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952358,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2420.2583998464,
+      "bbox": [
+        383.5424,
+        367.77536,
+        48.36864,
+        50.037760000000006
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952359,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2371.703181312,
+      "bbox": [
+        556.17024,
+        171.79488000000003,
+        45.8688,
+        51.70624
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952360,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1368.7303782400002,
+      "bbox": [
+        524.4819200000001,
+        205.98816,
+        40.03072,
+        34.192
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952361,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1912.0992497664004,
+      "bbox": [
+        482.7824,
+        410.36256000000003,
+        46.12928,
+        41.450880000000005
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952362,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1660.9202507776,
+      "bbox": [
+        607.8774400000001,
+        536.23456,
+        32.12224,
+        51.70624
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952363,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 777.301471232,
+      "bbox": [
+        481.65824000000003,
+        521.45056,
+        32.33152,
+        24.041600000000003
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952364,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 784.456187904,
+      "bbox": [
+        613.7152000000001,
+        279.37856,
+        26.2848,
+        29.84448
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7492952365,
+      "image_id": 3920426356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 511.319506944,
+      "bbox": [
+        567.87552,
+        475.02592000000004,
+        25.6992,
+        19.89632
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}

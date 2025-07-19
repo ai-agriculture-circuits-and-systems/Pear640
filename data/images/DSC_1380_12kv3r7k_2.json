@@ -1,0 +1,63 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5061574356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1380_12kv3r7k_2.jpg",
+      "size": 44431,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7703396356,
+      "image_id": 5061574356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2160.9788928000003,
+      "bbox": [
+        498.98720000000003,
+        195.39232,
+        48.846720000000005,
+        44.24
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 7703396357,
+      "image_id": 5061574356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1996.1950433279997,
+      "bbox": [
+        535.85312,
+        241.47488000000004,
+        43.3184,
+        46.08192
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}

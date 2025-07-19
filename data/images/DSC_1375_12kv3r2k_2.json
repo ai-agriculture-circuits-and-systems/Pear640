@@ -1,0 +1,77 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3012327356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1375_12kv3r2k_2.jpg",
+      "size": 69889,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6626064356,
+      "image_id": 3012327356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1049.3108133888,
+      "bbox": [
+        426.3712,
+        545.8128,
+        30.41664,
+        34.49792
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 6626064357,
+      "image_id": 3012327356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1548.7740227584,
+      "bbox": [
+        417.61632,
+        182.01888000000002,
+        41.39584,
+        37.413759999999996
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 6626064358,
+      "image_id": 3012327356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1639.1422689279998,
+      "bbox": [
+        388.45376000000005,
+        200.25888,
+        40.307199999999995,
+        40.66624
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}

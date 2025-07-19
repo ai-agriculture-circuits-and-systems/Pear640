@@ -1,0 +1,119 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 390056356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1381_12kv3r8k_12.jpg",
+      "size": 51956,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3926290356,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 3218.57568768,
+      "bbox": [
+        585.69088,
+        417.82975999999996,
+        54.30912,
+        59.264
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 3926290357,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1753.3359628288001,
+      "bbox": [
+        436.05472,
+        598.5369599999999,
+        42.28672,
+        41.46304
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 3926290358,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2375.7463093247998,
+      "bbox": [
+        382.92608,
+        595.28448,
+        53.13024,
+        44.71552
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 3926290359,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 542.5290035200001,
+      "bbox": [
+        231.12384,
+        628.896,
+        48.85888,
+        11.104000000000001
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 3926290360,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2758.2675394559997,
+      "bbox": [
+        536.89504,
+        435.88991999999996,
+        49.8784,
+        55.299839999999996
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 3926290361,
+      "image_id": 390056356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1.1740151808,
+      "bbox": [
+        5.58592,
+        522.6361599999999,
+        1.0828799999999998,
+        1.08416
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}

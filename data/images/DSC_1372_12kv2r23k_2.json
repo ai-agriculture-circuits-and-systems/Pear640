@@ -1,0 +1,133 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4264928356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1372_12kv2r23k_2.jpg",
+      "size": 74684,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9788397356,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2510.4622153728,
+      "bbox": [
+        214.58528,
+        407.66688,
+        49.61984,
+        50.59392
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397357,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 3338.7070930943996,
+      "bbox": [
+        203.12192,
+        455.34175999999997,
+        52.47744,
+        63.621759999999995
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397358,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 2331.9435976704003,
+      "bbox": [
+        245.71999999999997,
+        480.82944000000003,
+        48.64832,
+        47.934720000000006
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397359,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 3540.3750912,
+      "bbox": [
+        531.76672,
+        559.448,
+        53.51232,
+        66.16
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397360,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1035.535171584,
+      "bbox": [
+        510.6736,
+        610.98496,
+        35.6896,
+        29.01504
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397361,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 866.9827203072,
+      "bbox": [
+        546.3616,
+        624.63616,
+        56.430080000000004,
+        15.36384
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9788397362,
+      "image_id": 4264928356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1498.5643032576002,
+      "bbox": [
+        156.62144,
+        425.2848,
+        41.185280000000006,
+        36.38592
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}

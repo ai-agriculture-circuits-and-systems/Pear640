@@ -1,0 +1,91 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9755364356,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1352_12kv2r1k_4.jpg",
+      "size": 65999,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9016695356,
+      "image_id": 9755364356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 5023.800248729599,
+      "bbox": [
+        192.94272,
+        126.01056000000003,
+        67.71584,
+        74.18943999999999
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9016695357,
+      "image_id": 9755364356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 3773.3107802112,
+      "bbox": [
+        153.36768,
+        183.85504,
+        68.76288,
+        54.87424
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9016695358,
+      "image_id": 9755364356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 4366.013773824001,
+      "bbox": [
+        232.95327999999998,
+        191.5024,
+        71.29536,
+        61.238400000000006
+      ],
+      "iscrowd": 0
+    },
+    {
+      "id": 9016695359,
+      "image_id": 9755364356,
+      "category_id": 5168985379,
+      "segmentation": [],
+      "area": 1712.898064384,
+      "bbox": [
+        84.55936,
+        613.5103999999999,
+        64.66304,
+        26.489600000000003
+      ],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5168985379,
+      "name": "pear640",
+      "supercategory": "pear"
+    }
+  ]
+}
